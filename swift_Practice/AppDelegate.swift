@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         println("Hello, world")
         
      
-        var ary = ["123","321","999"]
+        var ary = ["123","456","789"]
         ary[1] = "11111"
         println(ary)
         
