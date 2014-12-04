@@ -21,7 +21,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
      
         var ary = ["123","456","789"]
-        ary[1] = "11111"
+        ary[1] = "aaaaa"
         println(ary)
         
         
