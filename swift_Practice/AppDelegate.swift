@@ -37,7 +37,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
         
-        println("Branch Test")
+       
         
         return true
     }
